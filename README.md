@@ -18,7 +18,7 @@ Estoy siempre en búsqueda de nuevos conocimientos y desafíos. Ahora mismo, est
 - API REST a api de gifs: https://gitpage-jonascript.netlify.app/
 
 ## 📫 Contacto
-Email: tu.email@example.com
-LinkedIn: Tu LinkedIn
-GitHub: Tu GitHub
+Email: jmesag08@gmail.com
+LinkedIn: 
+GitHub: https://github.com/JohnhattanMesaGarcia
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos interesantes y a aprender de la comunidad.
